@@ -1,0 +1,4 @@
+# Windows-only tool: ship bytes exactly as committed (CRLF), never convert.
+*       -text
+*.ico   binary
+*.png   binary
